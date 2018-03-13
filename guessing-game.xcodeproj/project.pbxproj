@@ -14,6 +14,7 @@
 		847E170220574C7C004FF6CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 847E170020574C7C004FF6CE /* LaunchScreen.storyboard */; };
 		847E170D20574C7C004FF6CE /* guessing_gameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847E170C20574C7C004FF6CE /* guessing_gameTests.swift */; };
 		847E171820574C7C004FF6CE /* guessing_gameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847E171720574C7C004FF6CE /* guessing_gameUITests.swift */; };
+		847E172620575770004FF6CE /* barcode.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 847E172520575770004FF6CE /* barcode.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		847E171320574C7C004FF6CE /* guessing-gameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "guessing-gameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		847E171720574C7C004FF6CE /* guessing_gameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = guessing_gameUITests.swift; sourceTree = "<group>"; };
 		847E171920574C7C004FF6CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		847E172520575770004FF6CE /* barcode.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = barcode.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		847E16F620574C7C004FF6CE /* guessing-game */ = {
 			isa = PBXGroup;
 			children = (
+				847E172520575770004FF6CE /* barcode.jpg */,
 				847E16F720574C7C004FF6CE /* AppDelegate.swift */,
 				847E16F920574C7C004FF6CE /* ViewController.swift */,
 				847E16FB20574C7C004FF6CE /* Main.storyboard */,
@@ -234,6 +237,7 @@
 			files = (
 				847E170220574C7C004FF6CE /* LaunchScreen.storyboard in Resources */,
 				847E16FF20574C7C004FF6CE /* Assets.xcassets in Resources */,
+				847E172620575770004FF6CE /* barcode.jpg in Resources */,
 				847E16FD20574C7C004FF6CE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
